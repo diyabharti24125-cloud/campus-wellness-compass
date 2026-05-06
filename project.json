@@ -1,0 +1,24 @@
+{
+  "overview": "Campus Wellness Compass is a student health and wellness web app for Indian college students. It features a symptom guide with first-aid modals, a water intake calculator, a wellness quiz, and an emergency SOS directory with New Delhi contacts.",
+  "features": [
+    "Sticky navigation with smooth scroll",
+    "Interactive symptom guide (Exam Stress, Dehydration, Migraine, Flu) with first-aid modals",
+    "Smart water intake calculator (weight-based formula)",
+    "Wellness check quiz with instant results",
+    "Emergency SOS directory with India-specific contacts and map",
+    "Mobile-responsive teal/white/gray medical theme",
+    "Student project credits and disclaimer footer"
+  ],
+  "category": "health",
+  "tags": [
+    "health",
+    "wellness",
+    "student",
+    "campus",
+    "india",
+    "first-aid",
+    "calculator",
+    "quiz"
+  ],
+  "last_updated": "2026-04-26T14:03:01.557Z"
+}
